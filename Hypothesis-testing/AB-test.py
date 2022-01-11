@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 AB test for a customer experience in a website: a case study
 Shahabedin Chatraee Azizabadi
