@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shahabed
 - 👀 I’m interested in Statistics, ML
-- 🌱 I’m currently learning about
+- 🌱 I’m currently learning about the Causal inference
 - 💞️ I’m looking to collaborate on data science projcts
 - 📫 How to reach me c.shahab@yahoo.com
 
