@@ -30,5 +30,5 @@ PhD in quantum light-matter interaction (numerical open quantum systems). Two ye
 Stack: Python · NumPy · SciPy · pandas · scikit-learn · statsmodels · PyMC · skimage · QuTiP · ...
 
 ---
-- 💞️ I’m looking to collaborate on data science projects
+- I’m looking to collaborate on data science projects
 📫 [c.shahab@yahoo.com](mailto:c.shahab@yahoo.com) · [LinkedIn](#)
