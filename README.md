@@ -6,31 +6,28 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hi, I'm Shahab 👋
 
-Applied mathematician turned data scientist, based in Berlin.
-I build ML systems and data pipelines — mostly in Python, occasionally with a lot of math involved.
+**Data Scientist / ML Engineer** focused on hard quantitative problems in industry.
 
----
+I turn messy real-world data into decisions: optimal inventory under uncertainty, causal effects of interventions, dose-response from microscopy images, and robust statistical pipelines. Python is my main tool; deep mathematical training is the advantage.
 
-### What I'm into - 👀
+### What I build
+- Inventory & demand optimization under censoring and lost sales
+- Causal inference (Pearl + Rubin frameworks) for decision support
+- Image analysis pipelines for high-content screening / drug response
+- Production-ready statistical & ML pipelines (regression, classification, survival, shrinkage)
 
-- 📊 Statistical learning — Bayesian inference, survival analysis, shrinkage methods
-- ⚛️ Quantum systems — my PhD was on light-matter interaction in quantum networks (yes, with Python)
-- 🔗 Causal inference — currently my main rabbit hole
-- 🧪 Drug discovery pipelines — what I spent two years building at a pharma spin-off
+### Background that makes the difference
+PhD in quantum light-matter interaction (numerical open quantum systems). Two years building drug-discovery pipelines at a pharma spin-off. Strong in Bayesian methods, survival analysis, and high-dimensional statistics.
+**Recent work**
+- 🧪 [Drug safety signal detection](link) — mining FDA adverse event reports to flag risky drug-reaction pairs
+- 📊 [Statistical inference toolkit](link) — bootstrap, shrinkage, survival analysis used in real regulatory & cross-selling projects
+- 🌱 [Applied ML projects](link) — soil property prediction, sentiment analysis
+### Currently focused on
+- Production inventory optimization (Newsvendor + censored demand)
+- Causal modeling for business interventions
+- Clean, reusable statistical tooling
 
----
-
-### Currently working on - 🌱
-
-- Implementing methods from Statistical Inference
-- Adding my PhD simulation code to GitHub
-- Learning DoWhy and DAG-based causal modeling
-
----
-
-### Stack
-
-`Python` `NumPy` `SciPy` `Pandas` `Scikit-learn` `PyMC` `Statsmodels` `PySpark` `Keras`
+Stack: Python · NumPy · SciPy · pandas · scikit-learn · statsmodels · PyMC · skimage · QuTiP · ...
 
 ---
 - 💞️ I’m looking to collaborate on data science projects
