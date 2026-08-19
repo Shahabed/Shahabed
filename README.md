@@ -31,5 +31,5 @@ Stack: Python · NumPy · SciPy · pandas · scikit-learn · statsmodels · PyMC
 
 ---
 - I’m looking to collaborate on data science projects
-- based in Germany 🚋 
-📫 [c.shahab@yahoo.com](mailto:c.shahab@yahoo.com) · [LinkedIn](#)
+- based in Germany 🚋
+- 📫 [c.shahab@yahoo.com](mailto:c.shahab@yahoo.com) · [LinkedIn](#)
